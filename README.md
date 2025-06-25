@@ -19,7 +19,8 @@ Cronômetro simples com funcionalidade de iniciar, pausar e resetar — feito co
 - Exibição em tempo real de horas, minutos e segundos
 
 ## 📸 Preview
-![preview](screenshot.png)
+![Stopwatch](https://github.com/user-attachments/assets/d9ad47e3-05ca-45d5-aa27-041ffab656d8)
+
 
 ## ▶️ Como executar localmente
 ```bash
